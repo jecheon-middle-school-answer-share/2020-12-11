@@ -29,6 +29,9 @@
 3. 우리나라는 6.25 전쟁 중에도 올림픽에 참가했다. (O / X)
 ```
 ### 정답
+1. X
+2. X
+3. O
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/Jp4Gla0M8uM/0.jpg)](https://www.youtube.com/embed/Jp4Gla0M8uM "Youtube")
 
@@ -37,16 +40,15 @@
 [기가 바로가기](https://rang.edunet.net/class/G000367106/hmwkppList.do?hmwkSeq=730047)
 ### 문제
 ```
- 영상을 듣고, 학습과제에 답하시오.
+오늘 학습한 수송기술의 발달 중 가장 관심이 있는 수송수단을 쓰고, 어떻게 이용하고 싶은지 쓰시오.
 ```
-### 정답
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/SKOfJmTG0VE/0.jpg)](https://www.youtube.com/embed/SKOfJmTG0VE "Youtube")
 [![Youtube](http://img.youtube.com/vi/5aHH2BspeJY/0.jpg)](https://www.youtube.com/embed/5aHH2BspeJY "Youtube")
 
 ## 3교시 - 국어
 ### 바로가기
-[국어 바로가기](https://rang.edunet.net/class/G000323851/hmwkppList.do?hmwkSeq=723511)
+[국어 바로가기](https://rang.edunet.net/class/G000323851/hmwkppList.do?hmwkSeq=731490)
 ### 문제
 ```
 1. 스마트폰 사용 실태 조사 설문지에 응답하기
@@ -90,6 +92,24 @@
 ### 문제
 [문제 다운로드](https://rang.edunet.net/common/fileDownload.do?type=homework&sequence=491843)
 ### 정답
+__핵심 반복__
+1. 3
+2. -1
+3. 159 cm
+4. 1
+5. 루트2권
+6. 2
+7. 학생 A
+
+__형서 평가__
+1 5
+2 81점
+3 5
+4 4
+5 6, 7
+6 5
+7 4
+8 12
 ### 참고 자료
 [영상 보기](https://play.mbus.tv/1763fbb08127895e)
 
